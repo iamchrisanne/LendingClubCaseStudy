@@ -1,1 +1,1 @@
-# lendingC-ubCaseStudy
+# lendingClubCaseStudy
